@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Job Oppourtunity &#8211; Freebiestech</title>
+	<atom:link href="/tag/job-oppourtunity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Sat, 26 Mar 2022 13:58:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Job Oppourtunity &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>FG opens portal for Nigerian Jubilee Fellows Programme &#8211; Job Application For Graduates</title>
+		<link>/fg-creates-job-oppourtunity-for-20000-graduates/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=fg-creates-job-oppourtunity-for-20000-graduates</link>
+					<comments>/fg-creates-job-oppourtunity-for-20000-graduates/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Tue, 07 Sep 2021 11:56:00 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[HOW TOs]]></category>
+		<category><![CDATA[Job Oppourtunity]]></category>
+		<category><![CDATA[TECH NEWS]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[      The Government of Nigeria, on Monday, September 6, opened the application portal for the Nigerian Jubilee Fellows Programme (NJFP) to employ 20,000 graduates yearly. It was launched due to rising unemployment in the country as well asthe COVID-19 pandemic which has negatively impacted Nigerian youths inthe ability to get a suitable job. &#8230;]]></description>
+		
+					<wfw:commentRss>/fg-creates-job-oppourtunity-for-20000-graduates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

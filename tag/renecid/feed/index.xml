@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Renecid &#8211; Freebiestech</title>
+	<atom:link href="/tag/renecid/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Fri, 04 Aug 2023 12:42:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Renecid &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Remitano App &#8211;  Register on Demon Wallet &#038; get free $1 (1 Renecid)</title>
+		<link>/remitano-app-1-bonus/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=remitano-app-1-bonus</link>
+					<comments>/remitano-app-1-bonus/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 12:19:37 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Cryptocurrency wallet]]></category>
+		<category><![CDATA[Demon Wallet]]></category>
+		<category><![CDATA[earn online]]></category>
+		<category><![CDATA[Remitano]]></category>
+		<category><![CDATA[Remitano Coin]]></category>
+		<category><![CDATA[Renecid]]></category>
+		<guid isPermaLink="false">/?p=19258</guid>
+
+					<description><![CDATA[Remitano App is an Escrowed P2P Cryptocurrency Exchange where you can easily Buy, Sell, Store, Invest, Deposit &#38; Withdraw cryptocurrencies with Fiat Wallet FAST &#38; SECURELY. The app supports Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Bitcoin Cash (BCH), Litecoin (LTC), Ripple (XRP) and many other altcoins. As a new or old user, you are entitled &#8230;]]></description>
+		
+					<wfw:commentRss>/remitano-app-1-bonus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

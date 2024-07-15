@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>data &#8211; Freebiestech</title>
+	<atom:link href="/tag/data/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Sat, 26 Mar 2022 14:13:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>data &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Restrict Android or IOS Apps from Using Data in the Background &#8211; Save Your Data</title>
+		<link>/restrict-android-and-ios-apps-from-using-background-data/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=restrict-android-and-ios-apps-from-using-background-data</link>
+					<comments>/restrict-android-and-ios-apps-from-using-background-data/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Sun, 05 Sep 2021 01:01:00 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[APK]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Data saver]]></category>
+		<category><![CDATA[HOW TOs]]></category>
+		<category><![CDATA[Ios]]></category>
+		<category><![CDATA[TECH TRICKS]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[      Disabling the background data usage of apps will save you data and enhance your smartphone’s battery life.   With frequent web browsing, streamingvideos, music, hours of scrolling through social media feeds andstories — saving the limited data pack has become a hell of a task. Andit matters less how frugally you use &#8230;]]></description>
+		
+					<wfw:commentRss>/restrict-android-and-ios-apps-from-using-background-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to recycle Data and Airtime bonus for Airtel, 9mobile and Glo</title>
+		<link>/how-to-recycle-data-and-airtime-bonus/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-recycle-data-and-airtime-bonus</link>
+					<comments>/how-to-recycle-data-and-airtime-bonus/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2020 02:00:00 +0000</pubDate>
+				<category><![CDATA[Airtime]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[9mobile]]></category>
+		<category><![CDATA[Airtel]]></category>
+		<category><![CDATA[CHEATS]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Glo]]></category>
+		<category><![CDATA[HOW TOs]]></category>
+		<category><![CDATA[TRICKS]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Recently, we shared a trick on how to recycle MTN yafun yafun new sim data and airtime bonus which is still active up till now. Many were able to recycle why some cant&#160;due to some reason known to them.&#160; Today, we will be sharing you another trick to recycle Airtime and Data bonus on Airtel, &#8230;]]></description>
+		
+					<wfw:commentRss>/how-to-recycle-data-and-airtime-bonus/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Atingi e-learning &#8211; Freebiestech</title>
+	<atom:link href="/tag/atingi-e-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Fri, 07 Apr 2023 00:08:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Atingi e-learning &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Atingi e-learning: Get free N200 Airtime Upto N5,000</title>
+		<link>/atingi-e-learning/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=atingi-e-learning</link>
+					<comments>/atingi-e-learning/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Mon, 27 Mar 2023 16:35:51 +0000</pubDate>
+				<category><![CDATA[Airtime]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Atingi e-learning]]></category>
+		<category><![CDATA[Flashout App]]></category>
+		<category><![CDATA[Free Airtime]]></category>
+		<category><![CDATA[Free Airtime on all network]]></category>
+		<guid isPermaLink="false">/?p=18356</guid>
+
+					<description><![CDATA[Atingi e-learning platform in partnership with Flashout is giving out free Airtime for every female user that Sign-up for Atingi. You can earn free N200 airtime with Flashout if you register for atingi or invite your female friends. Not only will you get free N200, you would also learn new job skills from Atingi e-learning &#8230;]]></description>
+		
+					<wfw:commentRss>/atingi-e-learning/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

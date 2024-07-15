@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Spam Call Blocker &#8211; Freebiestech</title>
+	<atom:link href="/tag/spam-call-blocker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Sun, 14 Aug 2022 08:12:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Spam Call Blocker &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>RingApp — Get Free Airtime Upto N5k On Any Network</title>
+		<link>/ringapp/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=ringapp</link>
+					<comments>/ringapp/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Fri, 08 Jul 2022 21:28:45 +0000</pubDate>
+				<category><![CDATA[Airtime]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Free Airtime]]></category>
+		<category><![CDATA[Free Airtime on all network]]></category>
+		<category><![CDATA[Spam Call Blocker]]></category>
+		<guid isPermaLink="false">/?p=12661</guid>
+
+					<description><![CDATA[Making and receiving call is one of our daily Activities, it can either be with Family, Friends, Call at work, etc. Sometimes, we find it difficult to identify Spam calls from normal call, this is where RingApp comes in. RingApp allow you to block Spam Calls by enabling the Block features on the apk. Not &#8230;]]></description>
+		
+					<wfw:commentRss>/ringapp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

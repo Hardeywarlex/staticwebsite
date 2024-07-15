@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments on: PennyTree &#8211; How To Earn N500 Per Referral	</title>
+	<atom:link href="/pennytree/feed/" rel="self" type="application/rss+xml" />
+	<link>/pennytree/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=pennytree</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Mon, 21 Mar 2022 19:24:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		By: Freebiestech		</title>
+		<link>/pennytree/#comment-1100</link>
+
+		<dc:creator><![CDATA[Freebiestech]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2022 21:10:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=8835#comment-1100</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/pennytree/#comment-1099&quot;&gt;Mayowa Benjamin&lt;/a&gt;.
+
+No minimum withdrawal.]]></description>
+			<content:encoded><![CDATA[<p>In reply to Mayowa Benjamin.</p>
+<p>No minimum withdrawal.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mayowa Benjamin		</title>
+		<link>/pennytree/#comment-1099</link>
+
+		<dc:creator><![CDATA[Mayowa Benjamin]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2022 18:15:07 +0000</pubDate>
+		<guid isPermaLink="false">/?p=8835#comment-1099</guid>
+
+					<description><![CDATA[What is the minimum withdrawal?]]></description>
+			<content:encoded><![CDATA[<p>What is the minimum withdrawal?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

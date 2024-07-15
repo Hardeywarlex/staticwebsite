@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>UFC (United Family Coin) &#8211; Freebiestech</title>
+	<atom:link href="/tag/ufc-united-family-coin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Mon, 16 Oct 2023 08:31:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>UFC (United Family Coin) &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>UF Wallet &#8211; Everything you need to know about UFC</title>
+		<link>/uf-wallet/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=uf-wallet</link>
+					<comments>/uf-wallet/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 02:14:45 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Cryptocurrency wallet]]></category>
+		<category><![CDATA[UF Wallet]]></category>
+		<category><![CDATA[UFC (United Family Coin)]]></category>
+		<guid isPermaLink="false">/?p=19605</guid>
+
+					<description><![CDATA[UF Wallet &#8211; UFC (United Family Coin) is a decentralised abundance based Cryptocurrency backed by UFD (United Family Dollar). United Family Coin is said to not depreciate in value, the rate of appreciation is directly proportional to the amount of users or investors joining the UF Wallet Community. Imagine having a coin that doesn&#8217;t depreciate &#8230;]]></description>
+		
+					<wfw:commentRss>/uf-wallet/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

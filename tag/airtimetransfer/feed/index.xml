@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Airtimetransfer &#8211; Freebiestech</title>
+	<atom:link href="/tag/airtimetransfer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Tue, 29 Nov 2022 12:56:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Airtimetransfer &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>AirtimeFlip &#8211; How To Convert Airtime To Cash</title>
+		<link>/airtimeflip/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=airtimeflip</link>
+					<comments>/airtimeflip/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2022 12:47:03 +0000</pubDate>
+				<category><![CDATA[Airtime]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[AirtimeFlip]]></category>
+		<category><![CDATA[Airtimeswap]]></category>
+		<category><![CDATA[Airtimetransfer]]></category>
+		<guid isPermaLink="false">/?p=16727</guid>
+
+					<description><![CDATA[AirtimeFlip &#8211; Are you in a situation whereby you mistakenly recharge your line from your bank account with excess airtime or you need to convert some earned airtime to cash? Perhaps you might haven’t stumbled across the Airtimeflip app, well the AirtimeFlip app is an app you can use to carry out different transactions on &#8230;]]></description>
+		
+					<wfw:commentRss>/airtimeflip/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Swap or Transfer Airtime from One Network to another</title>
+		<link>/how-to-swap-or-transfer-airtime-from/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-swap-or-transfer-airtime-from</link>
+					<comments>/how-to-swap-or-transfer-airtime-from/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 01:16:00 +0000</pubDate>
+				<category><![CDATA[Airtime]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[9mobile]]></category>
+		<category><![CDATA[Airtel]]></category>
+		<category><![CDATA[Airtimeswap]]></category>
+		<category><![CDATA[Airtimetransfer]]></category>
+		<category><![CDATA[Glo]]></category>
+		<category><![CDATA[HOW TOs]]></category>
+		<category><![CDATA[MTN]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Post Status: Working It is not a new thing to us that network providers differs and best each others in different ways. The most used network service which is mtn has its area where it best others while others like airtel, 9mobile and glo as there area where they are preferable than the best. Most &#8230;]]></description>
+		
+					<wfw:commentRss>/how-to-swap-or-transfer-airtime-from/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

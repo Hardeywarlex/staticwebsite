@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Shake &amp; Win &#8211; Freebiestech</title>
+	<atom:link href="/tag/shake-win/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Fri, 01 Sep 2023 11:17:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Shake &amp; Win &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Opera Predictor Game &#8211; Predict Game, Shake &#038; Win Prizes</title>
+		<link>/opera-predictor-game/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=opera-predictor-game</link>
+					<comments>/opera-predictor-game/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2023 11:16:59 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Opera mini]]></category>
+		<category><![CDATA[Opera Predictor]]></category>
+		<category><![CDATA[Opera Shake & Win]]></category>
+		<category><![CDATA[Shake & Win]]></category>
+		<guid isPermaLink="false">/?p=19369</guid>
+
+					<description><![CDATA[Opera Predictor Game &#8211; Do you love football and want to have a chance to win a smartphone, cash vouchers, airtime or betting vouchers? Opera&#8217;s got you covered with their special reward program for all football fans! This reward program is the same as before with the Opera Shake &#38; Win, but this time you&#8217;ll &#8230;]]></description>
+		
+					<wfw:commentRss>/opera-predictor-game/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Opera Shake &#038; Win &#8211; Get Free Phone, Airtime or Cash Voucher</title>
+		<link>/opera-shake-and-win/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=opera-shake-and-win</link>
+					<comments>/opera-shake-and-win/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 15:11:59 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Opera Shake & Win]]></category>
+		<category><![CDATA[Shake & Win]]></category>
+		<guid isPermaLink="false">/?p=16641</guid>
+
+					<description><![CDATA[Opera Shake and Win Contest is a new feature on Opera Mini apk for users in Nigeria, Kenya, Zambia &#38; Ghana. Win free phone, Airtime or Cash Voucher for shaking your device. With the shake and win on Opera mini apk, you are eligible to try your luck on winning an Android device, Airtime or &#8230;]]></description>
+		
+					<wfw:commentRss>/opera-shake-and-win/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

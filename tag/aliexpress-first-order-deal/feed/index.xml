@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>AliExpress First Order Deal &#8211; Freebiestech</title>
+	<atom:link href="/tag/aliexpress-first-order-deal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Thu, 13 Oct 2022 16:42:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>AliExpress First Order Deal &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>AliExpress First Order Deal: Order Goods With Just $0.01 (N4), Free Shipping</title>
+		<link>/aliexpress-first-order-deal/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=aliexpress-first-order-deal</link>
+					<comments>/aliexpress-first-order-deal/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 15:04:48 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[AliExpress]]></category>
+		<category><![CDATA[AliExpress First Order Deal]]></category>
+		<category><![CDATA[Shop online]]></category>
+		<guid isPermaLink="false">/?p=15808</guid>
+
+					<description><![CDATA[AliExpress First Order Deal is an offer on AliExpress shopping platform for new shopper. A New Shopper is someone who has never placed an order on Aliexpress. This offer is available for varieties of goods like Bluetooth, Airpod, Wristwatch, Power Bank, etc. You can get one out of all goods under the First Order Deal &#8230;]]></description>
+		
+					<wfw:commentRss>/aliexpress-first-order-deal/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

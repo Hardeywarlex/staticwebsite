@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>MYMTNAPP &#8211; Freebiestech</title>
+	<atom:link href="/tag/mymtnapp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Tue, 19 Sep 2023 12:08:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>MYMTNAPP &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>myMTN App &#8211; Get free 50gb Data on your MTN Sim</title>
+		<link>/mymtn-app-free-50gb-data/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=mymtn-app-free-50gb-data</link>
+					<comments>/mymtn-app-free-50gb-data/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Tue, 19 Sep 2023 11:47:35 +0000</pubDate>
+				<category><![CDATA[Data]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Free data]]></category>
+		<category><![CDATA[MYMTNAPP]]></category>
+		<guid isPermaLink="false">/?p=19451</guid>
+
+					<description><![CDATA[MTN NG is giving out free 50gb data to every new users for signing up on myMTN NG App. This data can be claimed with either new or old MTN Sim which has not been registered yet on myMTN App. Therefore, if you have a new or old MTN Sim which has not been used &#8230;]]></description>
+		
+					<wfw:commentRss>/mymtn-app-free-50gb-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to activate mtn 20gb and more for free on MyMtnApp</title>
+		<link>/how-to-activate-mtn-20gb-and-more-free/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-activate-mtn-20gb-and-more-free</link>
+					<comments>/how-to-activate-mtn-20gb-and-more-free/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 09:18:00 +0000</pubDate>
+				<category><![CDATA[Data]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[CHEATS]]></category>
+		<category><![CDATA[HOW TOs]]></category>
+		<category><![CDATA[MTN]]></category>
+		<category><![CDATA[MYMTNAPP]]></category>
+		<category><![CDATA[TRICKS]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Cheat Status: Blocked MTN 20gb plus cheat accumulatiom MTN has been know for their top unbeatable data plan as they intoduce more cheap data plan for their fans. The era we are in drives in more competition from all networks provider as they tends to reduce their data cost to drive in my consumers which &#8230;]]></description>
+		
+					<wfw:commentRss>/how-to-activate-mtn-20gb-and-more-free/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Freshwork &#8211; Freebiestech</title>
+	<atom:link href="/tag/freshwork/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Wed, 25 May 2022 08:15:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Freshwork &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Freshwork Affiliate Program — Earn $5 Per Referral</title>
+		<link>/freshwork-affiliate-program/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=freshwork-affiliate-program</link>
+					<comments>/freshwork-affiliate-program/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Wed, 25 May 2022 08:02:03 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Affiliate Program]]></category>
+		<category><![CDATA[Freshwork]]></category>
+		<category><![CDATA[Freshwork Affiliate program]]></category>
+		<guid isPermaLink="false">/?p=9290</guid>
+
+					<description><![CDATA[Freshworks Affiliate Program is a leading SaaS affiliate program which lets affiliates earn $5 for every referral they bring in and a 15% commission per sale. It is a leading B2B affiliate program which will help you earn a passive income by promoting one of the fastest-growing companies worldwide. The company has numerous products used &#8230;]]></description>
+		
+					<wfw:commentRss>/freshwork-affiliate-program/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

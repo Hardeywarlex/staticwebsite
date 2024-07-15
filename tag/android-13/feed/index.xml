@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Android 13 &#8211; Freebiestech</title>
+	<atom:link href="/tag/android-13/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Mon, 21 Mar 2022 18:33:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Android 13 &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Android 13 will allow you to run Windows 11 on your phone</title>
+		<link>/android-13-will-allow-you-to-run-windows-11/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=android-13-will-allow-you-to-run-windows-11</link>
+					<comments>/android-13-will-allow-you-to-run-windows-11/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2022 06:14:43 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android 13]]></category>
+		<category><![CDATA[TECH NEWS]]></category>
+		<category><![CDATA[Windows 11]]></category>
+		<guid isPermaLink="false">/?p=9095</guid>
+
+					<description><![CDATA[Recently, Google rolled out the first preview of Android 13 and currently only developers can try out all the features of the new version of the OS. At first glance, the new version of the green robot does not seem like a major update, offering minor changes. However, the developers still managed to find something &#8230;]]></description>
+		
+					<wfw:commentRss>/android-13-will-allow-you-to-run-windows-11/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Kudiwave &#8211; Freebiestech</title>
+	<atom:link href="/tag/kudiwave/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Fri, 07 Oct 2022 20:53:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Kudiwave &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kudiwave WhatsApp Bot &#124; Get Upto N500 Airtime For Free</title>
+		<link>/kudiwave/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=kudiwave</link>
+					<comments>/kudiwave/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2022 08:44:42 +0000</pubDate>
+				<category><![CDATA[Airtime]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Kudiwave]]></category>
+		<category><![CDATA[Kudiwave mobile banking]]></category>
+		<category><![CDATA[Kudiwave WhatsApp Banking]]></category>
+		<guid isPermaLink="false">/?p=15721</guid>
+
+					<description><![CDATA[Do you know you can get as much as 1k airtime from Kudiwave Mobile Banking WhatsApp Bot? Kudiwave WhatsApp bot allow you to pay utility bill, buy Airtime and data all from your chat, etc. Kudiwave is currently rewarding every new user that chat the bot on Whatsapp and create profile with N50 Airtime. This &#8230;]]></description>
+		
+					<wfw:commentRss>/kudiwave/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

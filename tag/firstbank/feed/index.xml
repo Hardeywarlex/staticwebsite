@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Firstbank &#8211; Freebiestech</title>
+	<atom:link href="/tag/firstbank/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Sun, 24 Oct 2021 06:55:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Firstbank &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to get free N400 Airtime on firstbank</title>
+		<link>/how-to-get-free-n400-airtime-on/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-get-free-n400-airtime-on</link>
+					<comments>/how-to-get-free-n400-airtime-on/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 23:03:00 +0000</pubDate>
+				<category><![CDATA[Airtime]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Firstbank]]></category>
+		<category><![CDATA[make money]]></category>
+		<category><![CDATA[PAID EARNING SITE]]></category>
+		<category><![CDATA[Referral program]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[First bank is here again with a new exciting offer to draw back their customers which have used their USSD code for a long time to perform any transaction.&#160; This reward is strictly meant for users that have make use of their USSD code for a while to perform any transaction. What are you waiting &#8230;]]></description>
+		
+					<wfw:commentRss>/how-to-get-free-n400-airtime-on/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

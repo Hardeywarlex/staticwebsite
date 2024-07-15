@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>FaceApk &#8211; Freebiestech</title>
+	<atom:link href="/tag/faceapk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Sun, 31 Jul 2022 01:56:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>FaceApk &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>FaceApp Pro Mod v5.1.0.9</title>
+		<link>/download-faceapp-apk-pro-v4505/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=download-faceapp-apk-pro-v4505</link>
+					<comments>/download-faceapp-apk-pro-v4505/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Sat, 10 Jul 2021 02:13:00 +0000</pubDate>
+				<category><![CDATA[Modded Apps]]></category>
+		<category><![CDATA[APK]]></category>
+		<category><![CDATA[FaceApk]]></category>
+		<category><![CDATA[MOD APK]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[  No more hours spent on photoshop! Get magazine cover quality for any selfie with just a few taps! Photo editor powered by FaceApp Pro AI, the most advanced neural portrait editing technology. Improve your photo or just have fun with gender swap, hair styling and other free &#38; funny features.   What Is FaceApp &#8230;]]></description>
+		
+					<wfw:commentRss>/download-faceapp-apk-pro-v4505/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

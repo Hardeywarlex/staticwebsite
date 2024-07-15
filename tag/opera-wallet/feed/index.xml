@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Opera Wallet &#8211; Freebiestech</title>
+	<atom:link href="/tag/opera-wallet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Sat, 18 Feb 2023 08:22:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Opera Wallet &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Opera cUSD &#8211; Get Free 2 cUSD Daily On Opera Wallet</title>
+		<link>/opera-cusd/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=opera-cusd</link>
+					<comments>/opera-cusd/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2023 10:18:12 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Cryptocurrency wallet]]></category>
+		<category><![CDATA[Opera cUSD]]></category>
+		<category><![CDATA[Opera Wallet]]></category>
+		<guid isPermaLink="false">/?p=17117</guid>
+
+					<description><![CDATA[Recently, Opera launched a Crypto Wallet which rewards new user with $3 Celo per registration. The giveaway ends around December 2022 but another round is back rewarding users with 2 celo USD (cUSD). This giveaway is only available to Opera browser users located in the following countries: Ghana, Kenya, Nigeria, Uganda. Participant must be a &#8230;]]></description>
+		
+					<wfw:commentRss>/opera-cusd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Opera Wallet &#8211; Get Free $3 Celo from Opera Crypto Wallet</title>
+		<link>/opera-wallet/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=opera-wallet</link>
+					<comments>/opera-wallet/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Tue, 06 Dec 2022 18:34:40 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Opera mini]]></category>
+		<category><![CDATA[Opera Wallet]]></category>
+		<guid isPermaLink="false">/?p=16765</guid>
+
+					<description><![CDATA[Opera Wallet &#8211; Recently, People have been winning cash rewards, Airtime and phone from Opera Shake &#38; Win Contest. Amidst the contest, Opera organized a $3 Celo giveaway to reward every new user that create new Opera Wallet. A total of $4,800 Celo to be given out daily which will be distributed among the first &#8230;]]></description>
+		
+					<wfw:commentRss>/opera-wallet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

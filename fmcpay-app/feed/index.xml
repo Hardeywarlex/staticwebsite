@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments on: FMCPAY App &#8211; How to get 2,500 FMC ($1.25) &#038; up to $20	</title>
+	<atom:link href="/fmcpay-app/feed/" rel="self" type="application/rss+xml" />
+	<link>/fmcpay-app/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=fmcpay-app</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Wed, 06 Mar 2024 23:10:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		By: Hardeywarlex		</title>
+		<link>/fmcpay-app/#comment-2521</link>
+
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Wed, 06 Mar 2024 23:10:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19765#comment-2521</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/fmcpay-app/#comment-2515&quot;&gt;Me&lt;/a&gt;.
+
+So you didn&#039;t see writeup on how to withdraw, how?]]></description>
+			<content:encoded><![CDATA[<p>In reply to Me.</p>
+<p>So you didn&#8217;t see writeup on how to withdraw, how?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Me		</title>
+		<link>/fmcpay-app/#comment-2515</link>
+
+		<dc:creator><![CDATA[Me]]></dc:creator>
+		<pubDate>Mon, 19 Feb 2024 09:21:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19765#comment-2515</guid>
+
+					<description><![CDATA[This is just beating around the bush. I didn&#039;t see how to withdraw and that&#039;s what we are looking for]]></description>
+			<content:encoded><![CDATA[<p>This is just beating around the bush. I didn&#8217;t see how to withdraw and that&#8217;s what we are looking for</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

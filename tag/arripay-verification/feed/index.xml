@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Arripay verification &#8211; Freebiestech</title>
+	<atom:link href="/tag/arripay-verification/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Tue, 30 Aug 2022 16:47:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Arripay verification &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Arripay Wallet Account &#8211; Send, Receive &#038; Pay Online Using Arripayment</title>
+		<link>/arripay-wallet/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=arripay-wallet</link>
+					<comments>/arripay-wallet/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2022 10:58:04 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Arripay]]></category>
+		<category><![CDATA[Arripay verification]]></category>
+		<category><![CDATA[Arripayment Login]]></category>
+		<category><![CDATA[Arripayment registration]]></category>
+		<category><![CDATA[Arripayment wallet Account]]></category>
+		<category><![CDATA[Arripayment withdrawal]]></category>
+		<guid isPermaLink="false">/?p=13659</guid>
+
+					<description><![CDATA[Arripayment (Arripay Wallet Account) is a payment wallet that allow you to send and receive money, make payment online on any third party site that support Arripayment Services. The Payment Platform allow you to link your Local bank account, PayPal and Epay which can be used to Withdraw your fund from Arripay. Today, i will &#8230;]]></description>
+		
+					<wfw:commentRss>/arripay-wallet/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

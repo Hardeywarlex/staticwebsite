@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Ice Coin &#8211; Freebiestech</title>
+	<atom:link href="/tag/ice-coin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Sat, 30 Dec 2023 10:28:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Ice Coin &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ice Review &#8211; Everything you need to know about Ice Mining</title>
+		<link>/ice-coin-review/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=ice-coin-review</link>
+					<comments>/ice-coin-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2023 10:12:50 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Online Reviews]]></category>
+		<category><![CDATA[Ice]]></category>
+		<category><![CDATA[Ice Coin]]></category>
+		<category><![CDATA[Ice Coin Review]]></category>
+		<category><![CDATA[Mining Platform]]></category>
+		<guid isPermaLink="false">/?p=19938</guid>
+
+					<description><![CDATA[Ice is a revolutionary new digital currency that is changing the way people think about money. With Ice, users can take control of their finances and participate in the creation of a more equitable financial system. Just like every other Digital Currency, Ice Is giving it&#8217;s members the opportunity to Mine Ice Coin before Mainnet. &#8230;]]></description>
+		
+					<wfw:commentRss>/ice-coin-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

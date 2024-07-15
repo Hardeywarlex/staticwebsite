@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Flip App &#8211; Freebiestech</title>
+	<atom:link href="/tag/flip-app/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Mon, 23 Oct 2023 09:27:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Flip App &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Flip App &#8211; How to earn up to $20 Dingo Coin</title>
+		<link>/flip-app/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=flip-app</link>
+					<comments>/flip-app/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Sat, 21 Oct 2023 13:31:43 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Cryptocurrency wallet]]></category>
+		<category><![CDATA[earn online]]></category>
+		<category><![CDATA[Flip App]]></category>
+		<guid isPermaLink="false">/?p=19715</guid>
+
+					<description><![CDATA[The Flip App is running a promotion program aimed at rewarding both new and old users on the App with a registration and referral bonus. With Flip promotional program, you can earn up to $1 Dingo (Now $0.25) per referral and $0.5 Dingo (Now $0.25) Sign-up Bonus. The reward will be credited immediately or some &#8230;]]></description>
+		
+					<wfw:commentRss>/flip-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>uwork &#8211; Freebiestech</title>
+	<atom:link href="/tag/uwork/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Sun, 24 Oct 2021 06:49:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>uwork &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to earn, complete task, earn commission and upgrade on Uwork-you can earn 3-4$ daily</title>
+		<link>/how-to-earn-complete-task-earn/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-earn-complete-task-earn</link>
+					<comments>/how-to-earn-complete-task-earn/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 00:10:00 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[make money]]></category>
+		<category><![CDATA[PAID EARNING SITE]]></category>
+		<category><![CDATA[Referral program]]></category>
+		<category><![CDATA[uwork]]></category>
+		<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Uwork App is another earning or Online money making app that was recently rolled out in the likes of INSME and MyBonus2u. This app comes with enticing features and promises a member would be able to earn up to $500 monthly. On this app, you can earn more than 5$ daily at the comfort of &#8230;]]></description>
+		
+					<wfw:commentRss>/how-to-earn-complete-task-earn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

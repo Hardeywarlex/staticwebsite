@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Mara Champion &#8211; Freebiestech</title>
+	<atom:link href="/tag/mara-champion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Wed, 28 Sep 2022 19:50:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>Mara Champion &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mara Wallet &#8211; How To Earn Upto $200 On Mara</title>
+		<link>/mara-wallet/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=mara-wallet</link>
+					<comments>/mara-wallet/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 19:47:58 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Mara Champion]]></category>
+		<category><![CDATA[Mara Wallet]]></category>
+		<guid isPermaLink="false">/?p=14882</guid>
+
+					<description><![CDATA[Mara, a pan-African company that offers a suite of crypto products, has announced the pre-launch of the Mara Wallet. According to Mara, &#8220;Mara Wallet is a portal to the crypto-economy focused on helping people to begin their journey towards conveniently managing their crypto-finance needs.&#8221; The Mara Wallet is a fast and secure multi-currency crypto wallet &#8230;]]></description>
+		
+					<wfw:commentRss>/mara-wallet/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mara Champion &#8211; Become A Champion On Mara &#038; Withdraw Weekly</title>
+		<link>/mara-champion/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=mara-champion</link>
+					<comments>/mara-champion/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 19:46:56 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Mara Champion]]></category>
+		<category><![CDATA[Mara Wallet]]></category>
+		<guid isPermaLink="false">/?p=14933</guid>
+
+					<description><![CDATA[Would you like to earn money as a Mara Champion by helping the Mara community grow before the launch of Mara Wallet? Mara Champions is meant for those that want to start earning on a weekly basis without waiting for the Launch of Mara. You earn $0.5 per referral which is N250 according to Mara &#8230;]]></description>
+		
+					<wfw:commentRss>/mara-champion/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

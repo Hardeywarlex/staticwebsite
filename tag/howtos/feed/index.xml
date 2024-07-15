@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>HOWTOs &#8211; Freebiestech</title>
+	<atom:link href="/tag/howtos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Technology Maxi!</description>
+	<lastBuildDate>Wed, 24 Aug 2022 17:22:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-FT-Logo-Design-01-32x32.png</url>
+	<title>HOWTOs &#8211; Freebiestech</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Quidax &#8211; How To Get Upto 10k On Quidax Crypto Platform</title>
+		<link>/quidax/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=quidax</link>
+					<comments>/quidax/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 01:58:11 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[earn online]]></category>
+		<category><![CDATA[HOWTOs]]></category>
+		<category><![CDATA[Quidax]]></category>
+		<guid isPermaLink="false">/?p=11904</guid>
+
+					<description><![CDATA[Quidax is a Crypto Base Apk that allow you to Buy and Sell Bitcoin &#38; other cryptocurrencies in Nigeria easily. Just like WhaleFin, Yellow Card &#38; Busha, Quidax also allow you to easily transact available coin on their platform. As a new user on Quidax, you are entitled to get free N500 registration bonus once &#8230;]]></description>
+		
+					<wfw:commentRss>/quidax/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Umba Loan Apk &#8211; Earn N1, 000 For Registration &#038; Referral</title>
+		<link>/umba-loan-apk/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=umba-loan-apk</link>
+					<comments>/umba-loan-apk/#comments</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Fri, 25 Feb 2022 03:44:50 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[HOWTOs]]></category>
+		<category><![CDATA[Loan apk]]></category>
+		<category><![CDATA[Umba]]></category>
+		<category><![CDATA[Umba Referral bonus]]></category>
+		<guid isPermaLink="false">/?p=9140</guid>
+
+					<description><![CDATA[Umba loan app is an easy to use digital banking app which allows individuals to get loans with low interest, pay bills and perform some other basic transactions aside from taking loan, all in one app. This Loan apk has been in existence for awhile lending people loan, but it&#8217;s features is not limited to &#8230;]]></description>
+		
+					<wfw:commentRss>/umba-loan-apk/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How To Print Plastic NIN ID (Premium) For Physical Identification</title>
+		<link>/print-plastic-nin-id/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=print-plastic-nin-id</link>
+					<comments>/print-plastic-nin-id/#respond</comments>
+		
+		<dc:creator><![CDATA[Hardeywarlex]]></dc:creator>
+		<pubDate>Sat, 08 Jan 2022 14:19:20 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[HOWTOs]]></category>
+		<category><![CDATA[Nin]]></category>
+		<category><![CDATA[Plastic NIN]]></category>
+		<guid isPermaLink="false">/?p=8780</guid>
+
+					<description><![CDATA[You can now print Plastic NIN ID (Premium NIN Slip) and keep it as a handy physical means of identification. The Improved NIN Slip has now been made possible to be printed in Plastic form with the premium plan which cost N1,000. It is no longer news that FG has extended NIN linkage to SIM &#8230;]]></description>
+		
+					<wfw:commentRss>/print-plastic-nin-id/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
